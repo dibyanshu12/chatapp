@@ -1,8 +1,8 @@
 # fireGroupChat
-This is a basic group chat widget that built with Firebase. It shows an example of how to build a simple chat application without any server side code.
+This is a basic group chat widget that built with Firebase.
 
 ## Setup
-Setup a localhost server for running the index.html. If you don’t already have any server,  I would suggest you to install NodeJS http-server.
+Setup a localhost server for running the index.html
 
 ##Configure Firebase
 * Go to [Firebase](www.firebase.com) and create a new account.
